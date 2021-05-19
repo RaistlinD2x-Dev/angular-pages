@@ -25,15 +25,15 @@
 </nav>
 
 <div>
-  <h4>{{ images[currentPage].title }}</h4>
+  <h4 appClass [backgroundColor]="'green'">{{ images[currentPage].title }}</h4>
   <img src={{images[currentPage].url}} />
 </div>
 
-<div [ngSwitch]="currentPage">
+<!-- <div [ngSwitch]="currentPage">
   <div *ngSwitchCase="0">
     Current page is 0
   </div>
   <div *ngSwitchDefault>
     Whatever
   </div>
-</div>
+</div> -->
