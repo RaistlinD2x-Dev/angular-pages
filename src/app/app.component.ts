@@ -10,7 +10,7 @@ export class AppComponent {
   images = [
     {
       title: 'hot girl 1',
-      url: 'https://images.unsplash.com/photo-1567892320421-1c657571ea4a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmlraW5pfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60'
+      url: 'https://images.unsplash.com/photo-1541433621554-05421e3a3e5a?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGJpa2luaXxlbnwwfHwwfHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60'
     },
     {
       title:'tits and abs',
@@ -22,7 +22,7 @@ export class AppComponent {
     },
     {
       title: 'My favorite',
-      url: 'https://images.unsplash.com/photo-1570976447640-ac859083963f?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8YmlraW5pfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60'
+      url: 'https://images.unsplash.com/photo-1574539602047-548bf9557352?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=701&q=80'
     }
 
   ]
